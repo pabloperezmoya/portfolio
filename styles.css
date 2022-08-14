@@ -1,0 +1,13 @@
+html{
+    border: 0px;
+    background-color: peachpuff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section {
+    margin: auto;
+    width: 50%;   
+    border: 3px solid papayawhip;
+    padding: 40px;
+    margin-top: 30px;
+}
